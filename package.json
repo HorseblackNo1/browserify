@@ -1,0 +1,23 @@
+{
+  "name": "browserify",
+  "version": "1.0.0",
+  "description": "html5 使用 require",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HorseblackNo1/browserify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HorseblackNo1/browserify/issues"
+  },
+  "homepage": "https://github.com/HorseblackNo1/browserify#readme",
+  "devDependencies": {
+    "browserify": "^17.0.0"
+  }
+}
